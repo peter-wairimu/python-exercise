@@ -18,3 +18,5 @@
 ### [8. Write a Python program to check whether a specified value is contained in a group of values.](datastructures/group.py)
 
 ### [9. Write a Python program to create a histogram from a given list of integers.](datastructures/histogram.py)
+### [9.Given two strings, check to see if they are anagrams.](datastructures/anagram.py)
+### [9.Given an integer array, output all the unique pairs that sum up to a specific value k.](datastructures/array.py)
